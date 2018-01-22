@@ -1,0 +1,115 @@
+1) ("ctrl" + "shift" + "p" + "inst" <Instаll Package Manager>) Установка PACKAGE MANAGER - установщика остальных пакетов.
+
+
+	2) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Emmet") устанавливаем - 
+
+	                   ********** EMMET ***********
+	ускоритель кода
+
+	
+	3) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "All Autocomplete") устанавливаем -
+	                   ******** ALL AUTOCOMPLETE ******
+	подказка в CSS по классам
+
+	
+	4) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Autofilename") устанавливаем -
+	                    ******** AUTOFILENAME *********
+	показывает названия файлов
+
+	
+	5) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "BracketHighlighter") устанавливаем -
+	                    ********** BRACKETHIGHLIGHTER *******
+	подсвечивает открывающие и закрывающие теги
+
+
+	6) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Autoprefixer") устанавливаем -
+	                    ********** AUTOPREFIXER *******
+	Подставляет вендорные префиксы 
+
+
+	7) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Bootstrap3 Autocompete") устанавливаем -
+	                    ********** BOOTSTRAP3 AUTOCOMPLETE *******
+	Упрощает верстку на Bootstrap3
+
+
+	8) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Bootstrap3 Snippets") устанавливаем -
+	                    ********** BOOTSTRAP3 SNIPPETS *******
+	Упрощает верстку на Bootstrap3
+
+
+	9) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Bootstrap4 Autocompete") устанавливаем -
+	                    ********** BOOTSTRAP4 AUTOCOMPLETE *******
+	Упрощает верстку на Bootstrap3
+
+
+	10) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Bootstrap4 Snippets") устанавливаем -
+	                    ********** BOOTSTRAP4 SNIPPETS *******
+	Упрощает верстку на Bootstrap3
+
+
+	11) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "JavaScript & NodeJS Snippets") устанавливаем -
+	                    ********** JAVASCRIPT & NODEJS SNIPPETS *******
+	Упрощает написание кода javascript и npm
+
+
+	12) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Advanced New File") устанавливаем -
+	                    ********** ADVANCED NEW FILE *******
+	Позволяет создавать файлы с помощью путей
+
+
+	13) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Git") устанавливаем -
+	                    ********** GIT *******
+	Позволяет пользоваться Git
+
+
+	14) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Git Gutter") устанавливаем -
+	                    ********** GIT GUTTER *******
+	Позволяет просматривать статус файла
+
+
+	15) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Side Bar Enhancements") устанавливаем -
+	                    ********** SIDE BAR ENHANCEMENTS *******
+	Добавляет дополнительные возможности для сайдбара
+
+
+	16) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "ColorPicker") устанавливаем -
+	                    ********** COLORPICKER *******
+	Позволяет вибирать цвет из цветовой палитры в hex-формате
+
+
+	17) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "DocBlockr") устанавливаем -
+	                    ********** DOCBLOCKR *******
+	Позволяет создавать коментарии к функциям
+
+
+	18) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "SublimeCodeIntel") устанавливаем -
+	                    ********** SUBLIMECODEINTEL *******
+	Позволяет ориентироваться в старом коде создавая возможность переходить к описании функций
+
+
+	19) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Minify") устанавливаем -
+	                    ********** MINIFY *******
+	Позволяет сжимать .css .html и .js файлы в текущую директорию
+	Требует дополнительно установка пакетов npm -
+	 npm install -g clean-css uglifycss js-beautify html-minifier uglify-js minjson svgo
+
+
+	 19) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Color Highlighter") устанавливаем -
+	                    ********** COLOR HIGHLIGHTER *******
+	Подсвечивает индекс цвета тем же цветом который указан
+
+
+
+	20) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "jQuery") устанавливаем -
+	                    ********** JQUERY *******
+	Помогает в написании кода jQuery
+
+
+	21) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "JSON Key-Value") устанавливаем -
+	                    ********** JSON KEY-VALUE *******
+	Подсвечивает JSON данные
+
+
+	22) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "React​JS") устанавливаем -
+	                    ********** REACTJS *******
+	Помогает в написании кода на React.js
