@@ -1,1 +1,23 @@
 # Sublime-Text-3-plugins
+
+--Emmet--
+--All Autocomplete--
+--Autofilename--
+--BracketHighlighter--
+--Autoprefixer--
+--Bootstrap3 Autocompete--
+--Bootstrap3 Snippets--
+--Bootstrap4 Autocompete--
+--Bootstrap4 Snippets--
+--JavaScript & NodeJS Snippets--
+--Advanced New File--
+--Git--
+--Git Gutter--
+--Side Bar Enhancements--
+--ColorPicker--
+--DocBlockr--
+--SublimeCodeIntel--
+--Color Highlighter--
+--jQuery--
+--JSON Key-Value--
+--ReactJS--
