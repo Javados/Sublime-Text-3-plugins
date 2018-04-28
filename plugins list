@@ -96,7 +96,7 @@
 
 	 19) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Color Highlighter") устанавливаем -
 	                    ********** COLOR HIGHLIGHTER *******
-	Подсвечивает индекс цвета тем же цветом который указан
+	Подсвечивает индекс цвета тем же цветом который указан(Этот плагин больше не рекомендуеться)
 
 
 
@@ -113,3 +113,11 @@
 	22) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "React​JS") устанавливаем -
 	                    ********** REACTJS *******
 	Помогает в написании кода на React.js
+	
+	23) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Guna") устанавливаем -
+	                    ********** Тему Guna *******
+	Оформление редактора кода
+	
+	24) Через Package Manager ("ctrl" + "shift" + "p" + "instal package" + "Agila") устанавливаем -
+	                    ********** Тему Agila *******
+	Оформление редактора кода с помощью цвета - неон
